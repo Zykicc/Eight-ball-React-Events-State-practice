@@ -1,0 +1,9 @@
+.EightBallBtn {
+  font-size: 15px;
+  color: aliceblue;
+  cursor: pointer;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  border: 0px;
+}
